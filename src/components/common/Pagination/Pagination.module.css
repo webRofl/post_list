@@ -1,0 +1,15 @@
+.pagination__wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.pagination__digit {
+    margin-left: 15px;
+    font-size: 35px;
+    cursor: pointer;
+}
+
+.pagination__digit_active {
+    color: red;
+}

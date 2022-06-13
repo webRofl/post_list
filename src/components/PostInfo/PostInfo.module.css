@@ -1,0 +1,28 @@
+.postInfo__wrapper {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    font-size: 35px;
+    flex-direction: column;
+    padding: 0 10vw;
+    position: relative;
+}
+
+.postInfo__title {
+    margin-bottom: 50px;
+}
+
+.postInfo__button {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-size: 35px;
+    border: 1px solid black;
+    border-radius: 8px;
+    padding: 10px 15px;
+    background-color: transparent;
+    cursor: pointer;
+    margin-left: 25px;
+    margin-top: 25px;
+}

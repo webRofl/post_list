@@ -1,0 +1,7 @@
+.allPosts__wrapper {
+    min-height: 74vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}

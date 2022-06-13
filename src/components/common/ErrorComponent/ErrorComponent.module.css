@@ -1,0 +1,10 @@
+.error__wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 87vh;
+}
+
+.error__text {
+    font-size: 65px;
+}
